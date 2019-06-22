@@ -1,0 +1,13 @@
+Jijona
+January 30.0 17.0 6.3
+February 33.3 17.6 7.1
+March 40 19.6 8.9
+April 50 21.3 10.9
+May 100 24.1 14.1
+June 10 27.8 18.1
+July 28.5 30.3 20.7
+August 26.0 30.8 21.2
+September 212.5 28.5 18.5
+October 2000.7 24.9 14.5
+November 2000.4 20.5 10.3
+December 2000.6 17.7 7.4

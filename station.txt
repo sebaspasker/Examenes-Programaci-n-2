@@ -1,0 +1,13 @@
+Alicante
+January 11.7 17.0 6.3
+February 12.3 17.6 7.1
+March 14.2 19.6 8.9
+April 16.1 21.3 10.9
+May 19.1 24.1 14.1
+June 22.9 27.8 18.1
+July 25.5 30.3 20.7
+August 26.0 30.8 21.2
+September 23.5 28.5 18.5
+October 19.7 24.9 14.5
+November 15.4 20.5 10.3
+December 12.6 17.7 7.4

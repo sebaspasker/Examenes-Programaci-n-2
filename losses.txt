@@ -1,0 +1,2 @@
+Costa Rica|Familia1-infanteria:10|Familia2-caballeria:20|Familia3-arqueros:100|
+Punta Cana|Familia1-catapulta:2000|Familia22-arqueros:100|
