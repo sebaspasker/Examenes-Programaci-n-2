@@ -1,0 +1,7 @@
+Base: "B1" pos:0
+Base: "B2" pos:1
+Base: "B23" pos:3
+Base: "B234" pos:5
+Base: "B23456" pos:6
+Ship: "S2" pos:2
+Ship: "S2" pos:4
