@@ -11,7 +11,7 @@ const char CONST_LOSSES_FILE[30] = "losses.txt";
 
 struct Troops {
 	char family[40];
-	char type[40];
+	char type[20];
 	unsigned int units;
 };
 
