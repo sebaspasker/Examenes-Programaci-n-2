@@ -1,0 +1,5 @@
+Endeavour:junta de la trocola:10/2/2015
+Atlantis:bujia:05/6/2011
+Atlantis:inyector motor:05/2/2013
+Endeavour:tubo de escape:1/1/2012
+Atlantis:asiento de eyeccion:05/2/2012
