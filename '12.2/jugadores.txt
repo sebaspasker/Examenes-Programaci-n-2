@@ -1,0 +1,6 @@
+1:Casillas, Iker:Real Madrid
+8:Iniesta, Andres:Barcelona
+9:Falcao,Radamel:Atletico de Madrid
+10:Messi, Lionel:Barcelona
+14:Alonso, Xavi:Real Madrid
+5:Pujol,Carles:Barcelona

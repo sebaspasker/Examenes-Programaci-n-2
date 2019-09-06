@@ -1,0 +1,7 @@
+sabanas 15
+toallita 3
+toalla_grande 7
+toalla_mediana 5
+espejo 14
+television 300
+cenicero 1

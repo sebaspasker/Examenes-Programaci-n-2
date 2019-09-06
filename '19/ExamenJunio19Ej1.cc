@@ -11,7 +11,7 @@ const char CONST_LOSSES_FILE[30] = "losses.txt";
 
 struct Troops {
 	char family[40];
-	char type[40];
+	char type[20];
 	unsigned int units;
 };
 
@@ -247,3 +247,62 @@ int main() {
 		cout << "File Error, can't open" << endl;
 	}
 }
+
+// CODIGO PARA GUARDAR EN TROOPS.DAT
+
+	/*
+	strcpy(t.family, "Gonzalez");
+	strcpy(t.type, "caballeria");
+	t.units = 200;
+
+	troopsVector.push_back(t);
+
+
+	strcpy(t.family, "Gonzalez");
+	strcpy(t.type, "caballeria");
+	t.units = 10;
+
+	troopsVector.push_back(t);
+
+	strcpy(t.family, "Gonzalez");
+	strcpy(t.type, "caballeria");
+	t.units = 50;
+
+	troopsVector.push_back(t);
+
+	strcpy(t.family, "Pasker");
+	strcpy(t.type, "escudero");
+	t.units = 34;
+
+	troopsVector.push_back(t);
+
+	strcpy(t.family, "Gonzalez");
+	strcpy(t.type, "caballeria");
+	t.units = 32442;
+
+	troopsVector.push_back(t);
+
+	strcpy(t.family, "Pasker");
+	strcpy(t.type, "escudero");
+	t.units = 123;
+
+	troopsVector.push_back(t);
+
+	strcpy(t.family, "Gonzalez");
+	strcpy(t.type, "escudero");
+	t.units = 32;
+
+
+	troopsVector.push_back(t);
+
+	strcpy(t.family, "Gomez");
+	strcpy(t.type, "caballeria");
+	t.units = 200;
+
+	troopsVector.push_back(t);
+
+	for(unsigned int i=0; i < troopsVector.size(); i++) {
+		troopsFile.write((const char *)&troopsVector[i], sizeof(Troops));
+}*/
+
+
